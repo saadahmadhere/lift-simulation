@@ -42,7 +42,7 @@ h2 {
 	width: 100%;
 }
 
-.btn-go {
+#btn-go {
 	width: fit-content;
 	padding: 12px 24px;
 	border-radius: 8px;
